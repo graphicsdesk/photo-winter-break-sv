@@ -7,12 +7,50 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://www.columbiaspectator.com/resizer/v2/ZDEONMISAZDCNPWX3FX6YA6VDE.JPG?auth=4008e2903c66e9229e876e3e04b0f8ec0958c93b9e01f5454ed6397a9f0ccd76",
+              "caption": "A walking cat.",
+              "credit": "Anonymous."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "https://www.columbiaspectator.com/resizer/v2/GTZ4EDH4WBAATM7VQD3ETYT45I.jpg?auth=6b07de30c2c4c057ac154b6f508b8b181edbfbeb87de24b765c744714b09c39f",
+              "caption": "A walking cat 2.",
+              "credit": "Anonymous 2."
+            }
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Editor Surina Venkat can be contacted at </i><a href=\"mailto:surina.venkat@columbiaspectator.com\"><i>surina.venkat@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://x.com/surinavenkat\"><i>@surinavenkat</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Associate Sita Vemuri can be contacted at </i><a href=\"mailto:sita.vemuri@columbiaspectator.com\"><i>sita.vemuri@columbiaspectator.com</i></a><i>. </i><i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter</i></b></a><b><i> and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Over a year after a shooting near Hamilton Heights, a local leader said a town hall on community safety hasn’t materialized",
+        "dek": "According to residents and a local activist, a public forum for residents to discuss community safety was planned after a young girl was shot near the area in 2024.",
+        "date": "December 4, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/surina-venkat/\">Surina Venkat</a>",
+        "byline2": "Graphics by <a href=\"https://www.columbiaspectator.com/contributors/sita-vemuri/\">Sita Vemuri</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PD7L5QGMEJAUNK5B75HUUVEKOM.jpg",
+        "cover_caption": "Abreu and Rose said they planned to discuss public safety initiatives with community members. Eliza Lamster / Columbia Daily Spectator.",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1hvmy-jlr_T9zoQkTG38E-cFP6l4exp5Mh5uANtY8BQQ/edit?tab=t.0"
       }
     }
   }

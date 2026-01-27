@@ -449,7 +449,7 @@ header {
     line-height: 1.3;
     position: relative;
     display: inline-block;
-    height: 300%;
+    height: calc(100% + 150vh);
 
     img {
         display: block;
@@ -458,26 +458,28 @@ header {
         position: sticky;
         top: 0;
         left: 0;
-        width: 100%;
-        min-height: 100vh;
+        height: auto;
     }
 
     .image-credit {
-        color: #999;
         background-color: white;
         position: absolute;
         bottom: 16px;
-        right: 16px;           
+        right: 16px;
+        padding: 12px;           
     }
 
     .image-caption-container {
-        padding: 5%;
-        position: relative;
+        position: absolute;
+        top: 100vh;
+        transform: translateY(-50%);
         max-width: 30%;
         width: fit-content;
+        padding: 5%;
 
         .image-caption-text {
             background-color: white;
+            background: rgba(255, 255, 255, 0.5);
             padding: 10px;
         }
     }

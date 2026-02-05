@@ -441,52 +441,94 @@ header {
   height: 20px;
 }
 
+@media (max-width: 1024px) {
+    .image {
+        margin: 30px auto 25px auto;
 
-.image {
-    margin: 30px auto 25px auto;
-    font-size: clamp(8px, 3vw, 18px) !important;
-    font-family: $georgia;
-    line-height: 1.3;
-    position: relative;
-    display: inline-block;
-    height: calc(100% + 150vh);
+        img {
+            display: block;
+            width: 80%;
+            max-width: 700px;
+            margin: auto;
+        }
 
-    img {
-        display: block;
-        width: 100%;
-        margin: auto;
-        position: sticky;
-        top: 0;
-        left: 0;
-        height: auto;
-    }
-
-    .image-credit {
-        background-color: white;
-        position: absolute;
-        bottom: 16px;
-        right: 16px;
-        padding: 12px;           
-    }
-
-    .image-caption-container {
-        position: absolute;
-        top: 100vh;
-        transform: translateY(-50%);
-        max-width: 30%;
-        width: fit-content;
-        padding: 5%;
+        .text-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            gap: 0.5vw;
+            margin: 2vw;
+        }
 
         .image-caption-text {
+            text-align: left;
+            font-size: clamp(8px, 3vw, 18px) !important;
+            font-family: $georgia;
+            color: #666;
+            padding: 0 $gbody-padding / 2;
+            line-height: 1.3;
+            max-width: 700px;
+            margin: 0;
+        }
+
+        .image-credit {
+            color: #999;
+            font-size: clamp(8px, 3vw, 18px) !important;
+            margin: 0;
+        }
+    }
+}
+
+@media (min-width: 1024px) {
+    .image {
+        margin: 30px auto 25px auto;
+        font-size: clamp(8px, 3vw, 18px) !important;
+        font-family: $georgia;
+        line-height: 1.3;
+        position: relative;
+        display: inline-block;
+        height: 250vh;
+
+        img {
+            display: block;
+            width: 100%;
+            margin: auto;
+            position: sticky;
+            top: 0;
+            left: 0;
+            height: auto;
+        }
+
+        .image-credit {
             background-color: white;
-            background: rgba(255, 255, 255, 0.5);
-            padding: 10px;
+            position: absolute;
+            bottom: 16px;
+            right: 16px;
+            padding: 12px;   
+        }
+
+        .image-caption-container {
+            position: absolute;
+            top: 100vh;
+            transform: translateY(-50%);
+            max-width: 30%;
+            width: fit-content;
+            padding: 5%;
+
+            .image-caption-text {
+                background-color: white;
+                background: rgba(255, 255, 255, 0.5);
+                padding: 10px;
+                font-size: 1.3rem;
+            }
         }
     }
 }
 
 @media (max-width: 660px) {
-  .image .image-caption-text {
+  .image .image-caption-text, .image-credit {
     font-size: 10px;
   }
 }

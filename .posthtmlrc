@@ -9,30 +9,264 @@
         "top": [],
         "body": [
           {
+            "type": "text",
+            "value": "From exploring cities new and old to capturing special moments, Spectator photographers spent their winter breaks in a variety of ways. Take a closer look at what our staff photographers did on their days off."
+          },
+          {
             "type": "image",
             "value": {
               "width": "100%",
-              "asset": "https://www.columbiaspectator.com/resizer/v2/ZDEONMISAZDCNPWX3FX6YA6VDE.JPG?auth=4008e2903c66e9229e876e3e04b0f8ec0958c93b9e01f5454ed6397a9f0ccd76",
-              "caption": "A walking cat.",
-              "credit": "Anonymous."
+              "asset": "/images/1_ElizaLamster_WinterBreak-2.jpeg",
+              "caption": "Staff Photographer Eliza Lamster escaped New York City over break, exploring the wonders of small-town life in Massachusetts. In this scenic image of Concord, Massachusetts, a wild beast can be spotted roaming the wilderness! Just kidding, that’s only her dog, Laika.",
+              "credit": "Eliza Lamster."
             }
           },
           {
             "type": "image",
             "value": {
               "width": "100%",
-              "asset": "https://www.columbiaspectator.com/resizer/v2/GTZ4EDH4WBAATM7VQD3ETYT45I.jpg?auth=6b07de30c2c4c057ac154b6f508b8b181edbfbeb87de24b765c744714b09c39f",
-              "caption": "A walking cat 2.",
-              "credit": "Anonymous 2."
+              "asset": "/images/2_ElizaLamster_WinterBreak-4.jpeg",
+              "caption": "Although romping through the snow is one of Lamster’s favorite activities, it seems she will never appreciate it quite as much as her dog. This picture was taken on a hike in Lenox, Massachusetts, during which Lamster and her parents got lost in the woods.",
+              "credit": "Eliza Lamster."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3_ElizaLamster_WinterBreak-7.jpeg",
+              "caption": "Lamster ate the most delightful omelet—complete with a side of her favorite food, broccoli—at this charming restaurant in Housatonic, Massachusetts. Athough the proprietors seemed to have set an outdoor table, no takers were abound on this snowy day.",
+              "credit": "Eliza Lamster."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2_JacksonDilks_WinterBreakPhotoEssay_1_19_CDS-2.jpeg",
+              "caption": "Before he ever even made it home, Dilks’ final hours in New York City were spent scrambling around Central Park during the first major snowfall of the year. He made it to the airport with moments to spare and his camera still around his neck.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1_JacksonDilks_WinterBreakPhotoEssay_1_19_CDS-1.jpeg",
+              "caption": "Headed south, Staff Photographer Jackson Dilks ascended Mount Washington in Pittsburgh to capture the Steel City in a frigid nighttime glow.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3_JacksonDilks_WinterBreakPhotoEssay_1_19_CDS-3.jpeg",
+              "caption": "Freezing from the near-zero temperatures, Dilks made his way downtown, photographing the Roberto Clemente Bridge. The iconic roadway is adjacent to PNC Park and suspends travelers over the beautiful Allegheny River.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1_Lynn_Fu_WinterBreak_1_21_26_CDS-2.jpeg",
+              "caption": "Staff Photographer Lynn Fu traveled to Chengdu, China, with her friends over winter break, where she captured a quiet moment at the Wenshu Monastery. Beneath green and golden leaves, a man shares a steaming cup of tea with masters.",
+              "credit": "Lynn Fu."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2_Lynn_Fu_WinterBreak_1_21_26_CDS-5.jpeg",
+              "caption": "A giant panda lies amid fallen leaves on the forest floor while chewing on bamboo at the Chengdu Research Base of Giant Panda Breeding.",
+              "credit": "Lynn Fu."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3_Lynn_Fu_WinterBreak_1_21_26_CDS-7.jpeg",
+              "caption": "Thousands of life-size terracotta warriors stand unwavering at Emperor Qin Shi Huang’s Mausoleum Site Museum, their armor weathered after over 2,000 years.",
+              "credit": "Lynn Fu."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/SofiaWadler_WinterBreakPhotoEssay_CDS_6.jpeg",
+              "caption": "Soaking in Bogota, Colombia’s warmer weather, Staff Photographer Sofia Wadler took a cable car up to Monserrate, exploring the market and stunning views of the city and its surrounding mountains.",
+              "credit": "Sofia Wadler."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/SofiaWadler_WinterBreakPhotoEssay_CDS_10.jpeg",
+              "caption": "Along a beach in Palomino, Colombia, two wild iguanas battled. This is Wadler’s view of the proudly poised winner.",
+              "credit": "Sofia Wadler."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/SofiaWadler_WinterBreakPhotoEssay_CDS_18.jpeg",
+              "caption": "Río Don Diego, Colombia, is home to hundreds of bird species. On her birdwatching trip there, Wadler heard a monstrous roar, only to find a family of red howler monkeys watching peacefully from above.",
+              "credit": "Sofia Wadler."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/roadtrip-08.jpeg",
+              "caption": "In early January, Senior Staff Photographer Stella Ragas drove from Phoenix, up the coast of California. While in San Diego—her first stop—she explored various beaches in the city and frolicked on the rocky shores.",
+              "credit": "Stella Ragas."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/roadtrip-105.jpeg",
+              "caption": "Further north, Ragas spent an evening in Santa Barbara, California, where she watched the sunset on the beach. As the golden sky illuminated children playing and the warm breeze hit her skin, she questioned why she decided to attend college in New York City.",
+              "credit": "Stella Ragas."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/roadtrip-171.jpeg",
+              "caption": "During her time in Big Sur, Ragas stared longingly at this waterfall for nearly an hour. She took about 300 pictures of the waterfall as the sun set.",
+              "credit": "Stella Ragas."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/roadtrip-455.jpeg",
+              "caption": "Ragas arrived in San Francisco, the ultimate destination of her road trip, where she met up with Deputy Photo Editor Zohar Ford. Together, Ragas and Ford hit the town with their cameras and explored the city on a hunt for cool buildings to photograph, which Ragas loves. See her favorite above.",
+              "credit": "Stella Ragas."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1_ToriFergus_WinterBreakPhotoEssay_1_23_2026_DPE.jpeg",
+              "caption": "Over winter break, Deputy Photo Editor Tori Fergus visited the Hoover Dam, a hydroelectric power plant on the Colorado River bordering Arizona and Nevada that was completed in 1936.",
+              "credit": "Tori Fergus."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2_ToriFergus_WinterBreakPhotoEssay_1_23_2026_DPE.jpeg",
+              "caption": "Fergus visited the Grand Canyon looking over the Colorado River. The western side of the Grand Canyon is owned by the Hualapai, one of the few Native American tribes that still owns its original land.",
+              "credit": "Tori Fergus."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1_Esmeralda_Paredes_WinterBreak2026_4.jpeg",
+              "caption": "Over winter break, Deputy Photo Editor Esmeralda Paredes photographed Columbia alumnus Jeremy Bernard Sasges, SEAS ’21, proposing to Alexa Levy, CC ’21, in Butler Library on December 23, 2025.",
+              "credit": "Esmeralda Paredes."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2_Esmeralda_Paredes_WinterBreak2026_1.jpeg",
+              "caption": "In Butler 301, the Lawrence A. Wien Reference Room, Alexa and Jeremy settle into the reality of “yes,” taking photos moments after the proposal to document this special moment.",
+              "credit": "Esmeralda Paredes."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3_Esmeralda_Paredes_WinterBreak2026_2.jpeg",
+              "caption": "Alexa holds up her hand to show her proposal ring. Warm lights frame the ring, marking a new chapter in the middle of a familiar place.",
+              "credit": "Esmeralda Paredes."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/DSC00026.jpeg",
+              "caption": "Pigeons, in Astoria Park.",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/DSC00040.jpeg",
+              "caption": "Photo Editor Audrea Chen spent the break at home in Astoria, Queens. While supposedly “terrified” of pigeons, she spent some time feeding them in Astoria Park. See the flock above.",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/IMG_1637.jpeg",
+              "caption": "Chen switched out her digital camera for a film one, capturing her meals with friends.",
+              "credit": "Audrea Chen."
             }
           },
           {
             "type": "text",
-            "value": "<i>Deputy Editor Surina Venkat can be contacted at </i><a href=\"mailto:surina.venkat@columbiaspectator.com\"><i>surina.venkat@columbiaspectator.com</i></a><i>. Follow her on X </i><a href=\"https://x.com/surinavenkat\"><i>@surinavenkat</i></a><i>.</i>"
+            "value": "With the spring semester in full swing, Spectator’s photographers have returned the focus of their cameras’ lenses to Columbia’s campus, students, and the surrounding Morningside Heights community."
           },
           {
             "type": "text",
-            "value": "<i>Graphics Associate Sita Vemuri can be contacted at </i><a href=\"mailto:sita.vemuri@columbiaspectator.com\"><i>sita.vemuri@columbiaspectator.com</i></a><i>. </i><i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+            "value": "<i>Photo Editor Audrea Chen can be contacted at </i><a href=\"mailto:audrea.chen@columbiaspectator.com\"><i>audrea.chen@columbiaspectator.com. </i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Photo Editor Tori Fergus can be contacted at </i><a href=\"mailto:tori.fergus@columbiaspectator.com\"><i>tori.fergus@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Photo Editor Esmeralda Paredes can be contacted at </i><a href=\"mailto:esmeralda.paredes@columbiaspectator.com\"><i>esmeralda.paredes@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Senior Staff Photographer Stella Ragas can be contacted at </i><a href=\"mailto:stella.ragas@columbiaspectator.com\"><i>stella.ragas@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Photographer Eliza Lamster can be contacted at </i><a href=\"mailto:eliza.lamster@columbiaspectator.com\"><i>eliza.lamster@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Photographer Sofia Wadler can be contacted at </i><a href=\"mailto:sofia.wadler@columbiaspectator.com\"><i>sofia.wadler@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Photographer Jackson Dilks can be contacted at </i><a href=\"mailto:jackson.dilks@columbiaspectator.com\"><i>jackson.dilks@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Photographer Lynn Fu can be contacted at</i><a href=\"mailto:lynn.fu@columbiaspectator.com\"><i> lynn.fu@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Data Visualization Reporter Sita Vemuri can be contacted at </i><a href=\"mailto:sita.vemuri@columbiaspectator.com\"><i>sita.vemuri@columbiaspectator.com</i></a><i>.</i><a href=\"mailto:eliza.lamster@columbiaspectator.com\"><i> </i></a>"
           },
           {
             "type": "text",
@@ -41,11 +275,11 @@
         ],
         "headline": "Winter Break Through the Lens: How Spectator’s Photographers Spent Winter Break",
         "dek": "Photos detailing how different Spectator photographers spent their winter breaks.",
-        "date": "December 4, 2025",
-        "byline": "By Audrea Chen, Esmeralda Paredes, Tori Fergus, Stella Ragas, Lynn Fu, Jackson Dilks, Eliza Lamster, Sofia Wadler",
-        "byline2": "Graphics by <a href=\"https://www.columbiaspectator.com/contributors/sita-vemuri/\">Sita Vemuri</a>",
-        "cover_asset": "/images/IMG_1635.JPG",
-        "cover_caption": "Abreu and Rose said they planned to discuss public safety initiatives with community members. Eliza Lamster / Columbia Daily Spectator.",
+        "date": "February 6th, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a>, <a href=\"https://www.columbiaspectator.com/contributors/tori-fergus/\">Tori Fergus</a>, <a href=\"https://www.columbiaspectator.com/contributors/esmeralda-paredes/\">Esmeralda Paredes</a>, <a href=\"https://www.columbiaspectator.com/contributors/stella-ragas/\">Stella Ragas</a>, <a href=\"https://www.columbiaspectator.com/contributors/eliza-lamster/\">Eliza Lamster</a>, <a href=\"https://www.columbiaspectator.com/contributors/sofia-wadler/\">Sofia Wadler</a>, <a href=\"https://www.columbiaspectator.com/contributors/jackson-dilks/\">Jackson Dilks</a>, and<a href=\"https://www.columbiaspectator.com/contributors/lynn-fu/\"> Lynn Fu</a>",
+        "byline2": "Web Design by <a href=\"https://www.columbiaspectator.com/contributors/sita-vemuri/\">Sita Vemuri</a>",
+        "cover_asset": "/images/WinterBreakCover.jpeg",
+        "cover_caption": "A winter dinner, on film. Audrea Chen / Photo Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
         "USE_COVER_HED": true,

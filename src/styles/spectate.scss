@@ -530,8 +530,8 @@ header {
         width: 100vw;
         
         img {
-            width: auto;
-            height: 100vh;
+            width: 50vw;
+            height: auto;
             margin-left: 0;
         }
 
@@ -541,10 +541,11 @@ header {
         }
 
         .image-caption-container {
-            right: 10%;
+            right: 1%;
+            max-width: 35%;
 
             .image-caption-text {
-                font-size: 2rem;
+                font-size: 1.5rem;
             }
         }
     }
